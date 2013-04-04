@@ -49,6 +49,10 @@ namespace CopyPad
 			emoticons.Add(@"ヽ( ﾟヮ・)ノ");
 			emoticons.Add(@"¯\_(ツ)_/¯");
 			emoticons.Add(@"└(^o^)┘");
+			emoticons.Add(@"| (• ◡•)|╯╰(❍ᴥ❍ʋ)");
+			emoticons.Add(@"ᕦ(ò_óˇ)ᕤ");
+			emoticons.Add(@"( ͡° ͜ʖ ͡°)");
+			emoticons.Add(@"(￣ー￣)");
 
 			foreach (String emoticon in emoticons)
 			{
